@@ -1,0 +1,7 @@
+requests>=2.27.1
+boto3>=1.24.0
+azure-identity>=1.10.0
+azure-mgmt-resource>=21.1.0
+google-auth>=2.6.0
+google-cloud-storage>=2.3.0
+jsonschema>=4.4.0
